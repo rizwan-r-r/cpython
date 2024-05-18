@@ -1,0 +1,13 @@
+{
+    "recommendations": [
+        "xuangeaha.print-divider",
+        "xuangeaha.just-enough-git",
+        "dfranx.shadered",
+        "nyxiative.rust-and-friends",
+        "mcu-debug.peripheral-viewer",
+        "yoavbls.pretty-ts-errors",
+        "amazonwebservices.aws-toolkit-vscode",
+        "devsense.phptools-vscode",
+        "ms-python.python"
+    ]
+}
